@@ -1,0 +1,7 @@
+users.db
+.streamlit/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
